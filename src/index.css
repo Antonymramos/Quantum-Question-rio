@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+#root {
+  min-height: 100vh; /* Para garantir que o aplicativo ocupe a altura total da tela */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #611DF2;
+  ; /* Cor de fundo global */
+}
+
+h1, h2 {
+  color: white; /* Cor do texto para títulos */
+  text-align: center; /* Alinhamento de texto */
+}
