@@ -11,7 +11,7 @@ const Quiz = () => {
   if (!categoryData) {
     return (
       <div>
-        <h2>Categoria não encontrada</h2>
+        <h2>Perguntas não encontrada</h2>
         <button onClick={() => navigate('/category')}>Voltar para Categorias</button>
       </div>
     );
