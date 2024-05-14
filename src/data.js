@@ -24,7 +24,7 @@ const data = {
       category: 'Ned Hermenn',
       questions: [
         {
-          question: 'Você gosta de pizza?',
+          question: 'test',
           options: ['Sim', 'Não'],
           answer: 'Sim',
         },
