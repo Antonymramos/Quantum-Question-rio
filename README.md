@@ -1,1 +1,1 @@
-Quantum-Questionário
+Questionário criado a fim de obter dados e informações sobre a personalidade do usuário (ou aluno) em questão.O questionário irá oferecer dois modelos de quiz, Modelo ACV e Ned Hermenn, para obter os melhores e mais completos resultados a respeito dos alunos, que serão utilizados para melhorar o seu aprendizado. 
