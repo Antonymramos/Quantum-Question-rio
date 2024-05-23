@@ -26,9 +26,13 @@ Diga como essa etapa será:
 E repita:
 
 
+⚙️ Executando os testes
+Explicar como executar os testes automatizados para este sistema.
+
 
 📦 Implantação
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
+
 
 🛠️ Construído com
 
@@ -39,6 +43,12 @@ CSS - Estilização e organização dos elementos da página.
 React - Usada para implementar o javascript e permitir a interatividade do questionário e a construção das perguntas.
 
 JSX - Usada para a execução do código e consequentemente, a aparição de ambos os questionários.
+
+
+
+📌 Versão
+Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
+
 
 ✒️ Autores
 
