@@ -50,19 +50,9 @@ JSX - Usada para a execução do código e consequentemente, a aparição de amb
 Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
 
 
-✒️ Autores
-
-
-Jorge Luiz de Almeida - Organizador do grupo;
-
-Luis Felipe Carmelo - Desenvolvedor secundário;
- 
+✒️ Autor
 Antony Michael Ramos - Desenvolvedor principal;
  
-Israel Guilherme Ferreira - Desenvolvedor principal;
- 
-João Paulo Caetano - Desenvolvedor secundário;
-
  
 🎁 Expressões de gratidão
 
